@@ -11,3 +11,4 @@ To set up the project, follow these steps:
    ```bash
    git clone https://github.com/your-username/text-classification-nlp.git
    cd text-classification-nlp
+pip install -r requirements.txt
